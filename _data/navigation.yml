@@ -1,0 +1,12 @@
+# main links
+main:
+  # - title: "Blog"
+  #   url: /blog
+  # - title: "Books"
+  #   url: /books
+  - title: "Resume"
+    url: /assets/ResumeRobertKarpinski.pdf
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
