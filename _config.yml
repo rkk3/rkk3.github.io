@@ -97,7 +97,7 @@ author:
   name             : "Robert Karpinski"
   avatar           : "/assets/images/bio-photo.jpeg"
   bio              : ""
-  location         : " SF | NYC | Remote"
+  location         : " NYC | Remote"
   email            : "Robert.k.karpinski@gmail.com"
   links:
     - label: "Email"
@@ -105,7 +105,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: "/assets/ResumeRobertKarpinski.pdf"
+      url:  "/assets/ResumeRobertKarpinski.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -117,7 +117,7 @@ author:
       url: "https://github.com/rkk3"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/robertkkarpinski/"
+    #  url: "https://www.linkedin.com/in/robertkkarpinski/"
 
 # Site Footer
 footer:
