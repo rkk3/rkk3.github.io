@@ -105,7 +105,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url:  "/assets/ResumeRobertKarpinski.pdf"
+      #url:  "/assets/ResumeRobertKarpinski.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

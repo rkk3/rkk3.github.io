@@ -4,8 +4,8 @@ main:
   #   url: /blog
   # - title: "Books"
   #   url: /books
-  - title: "Resume"
-    url: /assets/ResumeRobertKarpinski.pdf
+  #- title: "Resume"
+  #  url: /assets/ResumeRobertKarpinski.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
