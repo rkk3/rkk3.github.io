@@ -8,4 +8,4 @@ I am a technologist and entrepreneur with a wide variety of experience from buil
 
 Experienced in Product Management, Full-Stack web development (Python, React) and Machine Learning (NLP).
 
-Outside of work I enjoy hiking, chess (~1400), power lifting, and have been learning Chinese. 
+Outside of work I enjoy hiking, chess (~1500), power lifting, and have been learning Chinese. 
