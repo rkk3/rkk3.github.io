@@ -3,6 +3,7 @@ layout: home
 author_profile: true
 
 ---
+# About
 
 I am a technologist and entrepreneur with a wide variety of experience in Product Management, Full-Stack web development (Python, React, NextJs, Typescript) and Machine Learning (NLP).
 
